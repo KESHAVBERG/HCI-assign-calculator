@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.btns{
+    height: 70;
+    width: 70;
+    margin: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
+
+.results-div{
+    width: 52%;
+    height: 100px;
+    display: flex;
+    margin: 10;
+}
